@@ -1,0 +1,55 @@
+[
+ {
+   "Year": "2020/2021",
+   "Module1": "4th Year Project",
+   "Module2": "Enterprise Application Development",
+   "Module3": "Information Management",
+   "Module4": "Interactive Media Design",
+   "Module5": "Enterprise Application Architecture",
+   "Module6": "DevOps",
+   "Module7": "",
+   "Module8": "",
+   "Module9": "",
+   "Module10": ""
+ },
+ {
+   "Year": "2019/2020",
+   "Module1": "Server-Side Web Development",
+   "Module2": "Data Analytics",
+   "Module3": "Big Data Technologies",
+   "Module4": "Cloud Services and Dsitributed Computing",
+   "Module5": "Data Structures and Algorithms",
+   "Module6": "Work Experience ",
+   "Module7": "",
+   "Module8": "",
+   "Module9": "",
+   "Module10": ""
+ },
+ {
+   "Year": "2018/2019",
+   "Module1": "Software Development 4 ",
+   "Module2": "Routing and Switching",
+   "Module3": "Database Admin & Analysis",
+   "Module4": "Information Security ",
+   "Module5": "Software Development 3",
+   "Module6": "Software Quality Assurance & Testing",
+   "Module7": "Network Fundamentals",
+   "Module8": "Advanced Database Technologies",
+   "Module9": "Client-Side Web Development",
+   "Module10": ""
+ },
+ {
+   "Year": "2017/2018",
+   "Module1": "Software Development 2",
+   "Module2": "Object Oriented System Analysis",
+   "Module3": "Social Media Communications",
+   "Module4": "Statistics",
+   "Module5": "Database Fundamentals",
+   "Module6": "Operating System Fundamentals",
+   "Module7": "Software Development 1 ",
+   "Module8": "Computer Architecture",
+   "Module9": "Business Information System ",
+   "Module10": "Discrete Maths 1"
+ }
+]
+
