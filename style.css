@@ -82,19 +82,36 @@ body{
 }
 
 img{
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
-    height: 43%;
+    width: 75%;
+    height: 27%;
+    margin-top: 0.8em;
+    border-radius: 0.3em;
+    margin-bottom: 1em;
 }
 
 .card{
     margin-top: 3em;
     margin-left: auto;
     margin-right: auto;
-    width: 30%; 
-    height: 50%;
-    background-color: #F6F4EB
+    width: 60%; 
+    height: 75%;
+    background-color: #F6F4EB;
+}
+.imgPara
+{
+    margin-top: 1em;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 hr{
