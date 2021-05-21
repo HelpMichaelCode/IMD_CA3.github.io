@@ -33,7 +33,129 @@ body{
     text-align: center;
     height: 80%;
 }
+.firebase1
+{
+     width: 10%;
+     height: auto;
+     float: left;
+     margin-right: 0.5em;
+}
 
+.RN_Img
+{
+    width: 19%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.vscode_Img
+{
+    width: 10%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.github_Img
+{
+    width: 10%;
+    height: auto;
+    margin-right: 0.3em;
+}
+.devops_Img
+{
+    width: 10%;
+    height: auto;
+    margin-right: 0.3em;
+}
+.js_Img
+{
+    width: 10%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.cloudFunction_Img
+{
+     width: 19%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.miro_Img
+{
+    width: 10%;
+    height: auto;
+    float: left;
+    margin-right: 0.5em;
+}
+.jira_Img
+{
+    width: 10%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.redis_Img
+{
+    width: 19%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.aiven_Img
+{
+    width: 19%;
+    height: auto;
+}
+.jupyter_Img
+{
+    width: 12%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.python_Img
+{
+    width: 12%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.anaconda_Img
+{
+    width: 12%;
+    height: auto;
+}
+.playFrameWork_Img
+{
+    width: 17%;
+    height: auto;
+    margin-right: 0.5em;
+}
+.linux_Img
+{
+    width: 17%;
+    height: auto;
+}
+.sql_Img
+{
+    width: 15%;
+    height: auto;
+}
+.html_Img
+{
+    width: 11%;
+    height: auto; 
+}
+.jquery_Img
+{
+    width: 11%;
+    height: auto; 
+    margin-right: 0.5em;
+}
+.css_Img
+{
+    width: 11%;
+    height: auto; 
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.imgCol {
+  
+}
+
+/* Clear floats after image containers */
 .container4{
     display: inline-block;
     text-align: center;
@@ -96,10 +218,15 @@ img{
     width: 60%; 
     height: 75%;
     background-color: #F6F4EB;
+    border-radius: 0.7em;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
 }
 .imgPara
 {
     margin-top: 1em;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    text-align: left;
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
@@ -113,10 +240,75 @@ img{
   clear: both;
   display: table;
 }
+.grades
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+}
+.topLeftHeader 
+{
+    font-family: 'Lato', sans-serif;
+    margin-right: 0.5em;
+}
+.Year1GradesFont
+{
+    font-family: 'Lato', sans-serif;
+}
+.topLeftPara
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.25em;
+    text-align: left;
+    margin-left: 10%;
+}
+.flex-container1 {
+    display: flex;
+    margin-bottom: 1em;
+    height: 60%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
+}
+
+.flex-child {
+    flex: 1;
+    border-radius: 0.7em;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+
+.flex-container2 {
+    display: flex;
+    margin-bottom: 1em;
+    height: 50%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex-child1 {
+    flex: 1;
+    border: 2px solid black;
+}  
+
+.flex-child2:first-child {
+    margin-right: 20px;
+} 
 
 hr{
     margin-bottom: 0em;
     margin-top: 0em;
+}
+ul
+{
+    text-align: left;
+    margin-left: 1.5em;
 }
         
 .firstYrGradeContainer{
@@ -129,6 +321,7 @@ hr{
     white-space: normal;
     vertical-align: middle;
     text-align:left;
+    width: 40%;
 }
         
 #jumbo2{
@@ -191,15 +384,16 @@ hr{
     margin-top: 5em;
     height: 90%;
     width: 55%;
-    margin-bottom: 50em;
+    margin-bottom: 15em;
 }
 .container6{
     display: inline-block;
     text-align: center;
     background-color: #FF6B6B;
-    height: 90%;
+    height: 150%;
     width: 100%;
     overflow: auto;
+    margin-top: 10em;
 }
         
 .container7{
