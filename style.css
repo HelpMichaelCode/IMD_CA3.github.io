@@ -235,6 +235,14 @@ img{
     border-radius: 0.7em;
     box-shadow: 0 0 20px rgba(0,0,0,0.3);
 }
+.navbar-nav
+{
+    font-family: 'Lato', sans-serif;
+}
+.navbar-brand
+{
+    font-family: 'Lato', sans-serif;
+}
 .imgPara
 {
     margin-top: 1em;
